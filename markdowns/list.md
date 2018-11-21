@@ -5,7 +5,7 @@ Using Sample List: 3,1,5,4,1,-2
 destructuring(unpack)
 ```python runnable
 # destructuring
-[a,b,c,d] = [[3],1,5,4]
+[[a],b,c,d] = [[3],1,5,4]
 print([a,b,c,d])
 ```
 
